@@ -1,2 +1,2 @@
 # DevMobileNatif_MPDAM1
-REPO Git for MPDAM 1 Dev Web (For educational Use Only)
+REPO Git for MPDAM 1 Dev Mobile Natif (For educational Use Only)
